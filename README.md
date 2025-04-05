@@ -35,6 +35,7 @@
     - [Denoising](#denoising)
     - [Rain Removal](#rain-removal)
     - [HSI Reconstruction](#hsi-reconstruction)
+  - [Spectral Translation Tasks](#spectral-translation)
 
 ## Mamba
 
@@ -44,13 +45,13 @@
 ## Vision Mamba Backbone
 
 # Vision Mamba in Remote Sensing
-We document these papers according to different downstream tasks. All data is the received date.
+We document these papers according to different downstream tasks. All dates are the received date.
 
 
 ## Classification
 | Venue(Date)| Paper | Figure    | Link | Code         |
 | :--------  | :---- | :-------- | :--- | :----------- |
-| GRSL(24.08.28)| S2CrossMamba: Spatial–Spectral Cross-Mamba for Multimodal Remote Sensing Image Classification|<img width="684" alt="image" src="asset/5.png"> |[Link](https://ieeexplore.ieee.org/abstract/document/10738515)|[Code](https://github.com/HyperSystemAndImageProc/S2CrossMamba)|
+| GRSL(24.08.28)| S2CrossMamba: Spatial–Spectral Cross-Mamba for Multimodal Remote Sensing Image Classification|<img width="1600" alt="image" src="Assets/5.png"> |[Link](https://ieeexplore.ieee.org/abstract/document/10738515)|[Code](https://github.com/HyperSystemAndImageProc/S2CrossMamba)|
 || |<img width="684" alt="image" src="asset/">|[Link]|[Code]|
 
 
@@ -115,7 +116,7 @@ We document these papers according to different downstream tasks. All data is th
 ### HSI Reconstruction
 
 
-
+## Spectral Translation
 
 
 
