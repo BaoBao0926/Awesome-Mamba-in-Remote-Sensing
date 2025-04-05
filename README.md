@@ -35,7 +35,7 @@
     - [Denoising](#denoising)
     - [Rain Removal](#rain-removal)
     - [HSI Reconstruction](#hsi-reconstruction)
-  - [Spectral Translation Tasks](#spectral-translation)
+  - [Spectral Translation](#spectral-translation)
 
 ## Mamba
 
