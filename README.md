@@ -1,1 +1,1 @@
-# Awesome-Mamba-in-Remote-Sensing
+# Vision Mamba in Remote Sensing: A Comprehensive Survey of Techniques, Applications and Outlook
