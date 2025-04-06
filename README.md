@@ -118,24 +118,23 @@ We document these papers according to different downstream tasks. All dates are 
 ### Cloud Removal
 | Venue(received, accepted)| Paper | Figure    | Link | Code         |
 | :--------  | :---- | :-------- | :--- | :----------- |
-|()||<img width="684" alt="image" src="Assets/">|[Link]()|[Code]()|
-|()||<img width="684" alt="image" src="Assets/">|[Link]()|[Code]()|
-|()||<img width="684" alt="image" src="Assets/">|[Link]()|[Code]()|
-|()||<img width="684" alt="image" src="Assets/">|[Link]()|[Code]()|
-|()||<img width="684" alt="image" src="Assets/">|[Link]()|[Code]()|
+|arXiv(24.05.16, -)|RSDehamba:Lightweight Vision Mamba for Remote Sensing Satellite Image Dehazing |<img width="684" alt="image" src="Assets/7.png">|[Link](https://arxiv.org/abs/2405.10030)||
+|TGRS(24.08.07, 25.01.02)|FMambaIR:A Hybrid State Space Model and Frequency Domain for Image Restoration |<img width="684" alt="image" src="Assets/80.jpg">|[Link](https://ieeexplore.ieee.org/abstract/document/10834441)|[Code](https://github.com/mickoluan/FMambaIR)|
+|SIVP(24.09.19, 24.12.07)|Lightweight vision Mamba for weather-degraded remote sensing image restoration |<img width="684" alt="image" src="Assets/24.jpg">|[Link](https://link.springer.com/article/10.1007/s11760-024-03767-0)||
+|TGRS(24.09.22, 24.12.13)|Mamba-CR:A State-Space Model for Remote Sensing Image Cloud Removal |<img width="684" alt="image" src="Assets/19.jpg">|[Link](https://ieeexplore.ieee.org/abstract/document/10806801)||
+|RS(25.01.06, 25.01.27)|Weamba:Weather-Degraded Remote Sensing Image Restoration with Multi-Router State Space Model |<img width="684" alt="image" src="Assets/106.jpg">|[Link](https://www.mdpi.com/2072-4292/17/3/458)||
 
 ### Shadow Removal
 | Venue(received, accepted)| Paper | Figure    | Link | Code         |
 | :--------  | :---- | :-------- | :--- | :----------- |
-|()||<img width="684" alt="image" src="Assets/">|[Link]()|[Code]()|
-|()||<img width="684" alt="image" src="Assets/">|[Link]()|[Code]()|
+|TGRS(24.08.15, 25.01.05)|RSMamba: Biologically Plausible Retinex-Based Mamba for Remote Sensing Shadow Removal|<img width="684" alt="image" src="Assets/17.jpg">|[Link](https://ieeexplore.ieee.org/abstract/document/10833852)||
 
 ### Dehazing
 | Venue(received, accepted)| Paper | Figure    | Link | Code         |
 | :--------  | :---- | :-------- | :--- | :----------- |
-|()||<img width="684" alt="image" src="Assets/">|[Link]()|[Code]()|
-|()||<img width="684" alt="image" src="Assets/">|[Link]()|[Code]()|
-|()||<img width="684" alt="image" src="Assets/">|[Link]()|[Code]()|
+|arxiv(24.06.09, -)|HDMba:Hyperspectral Remote Sensing Imagery Dehazing with State Space Model |<img width="684" alt="image" src="Assets/82.jpg">|[Link](https://arxiv.org/abs/2406.05700)|[Code](https://github.com/RsAI-lab/HDMba)|
+|Mathematical Problems of Computer Science(-, 24,12,01)|Mamba-based Thermal Image Dehazing |<img width="684" alt="image" src="Assets/83.jpg">|[Link](http://93.187.165.2/index.php/mpcs/article/view/866)||
+|RS(25.01.06, 25.01.27)|Weamba:Weather-Degraded Remote Sensing Image Restoration with Multi-Router State Space Model |<img width="684" alt="image" src="Assets/106.jpg">|[Link](https://www.mdpi.com/2072-4292/17/3/458)||
 
 ### Denoising
 | Venue(received, accepted)| Paper | Figure    | Link | Code         |
