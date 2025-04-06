@@ -71,11 +71,40 @@ We document these papers according to different downstream tasks. All dates are 
 ## Segmentation
 
 ### Semantic Segmentation
+| Venue(received, accepted)| Paper | Figure    | Link | Code         |
+| :--------  | :---- | :-------- | :--- | :----------- |
+|TGRS(24.04.10, 24.07.05)|RS-Mamba for Large Remote Sensing Image Dense Prediction|<img width="1200" alt="image" src="Assets/1.png">|[Link](https://ieeexplore.ieee.org/abstract/document/10589665)|[Code](https://github.com/walking-shadow/Official_Remote_Sensing_Mamba)|
+|TGRS(24.05.15, 24.06.10)|RS3Mamba:Visual State Space Model for Remote Sensing Image Semantic Segmentation |<img width="684" alt="image" src="Assets/2.png">|[Link](https://ieeexplore.ieee.org/abstract/document/10556777)|[Code](https://github.com/sstary/SSRS)|
+|arXiv(24.05.17, -)|CM-UNet:Hybrid CNN-Mamba UNet for Remote Sensing Image Semantic Segmentation |<img width="684" alt="image" src="Assets/25.jpg">|[Link](https://arxiv.org/abs/2405.10530)|[Code](https://github.com/XiaoBuL/CM-Unet)|
+|RS(24.05.27, 24.07.15)|A Novel Mamba Architecture with a Semantic Transformer for Efficient Real-Time Remote Sensing Semantic Segmentation |<img width="684" alt="image" src="Assets/3.jpg">|[Link](https://www.mdpi.com/2072-4292/16/14/2620)||
+|RS(24.06.12, 24.09.13)|Link Aggregation for Skip Connection–Mamba:Remote Sensing Image Segmentation Network Based on Link Aggregation Mamba |<img width="684" alt="image" src="Assets/18.jpg">|[Link](https://www.mdpi.com/2072-4292/16/19/3622)||
+|TGRS(24.06.13, 24.09.08)|Joint Classification of Hyperspectral and LiDAR Data Based on Mamba |<img width="684" alt="image" src="Assets/27.jpg">|[Link](https://ieeexplore.ieee.org/abstract/document/10679212)|[Code](https://github.com/Dilingliao/HLMamba)|
+|arXiv(24.06.16, -)|PyramidMamba:Rethinking Pyramid Feature Fusion with Selective Space State Model for Semantic Segmentation of Remote Sensing Imagery |<img width="684" alt="image" src="Assets/42.jpg">|[Link](https://arxiv.org/abs/2406.10828)||
+|applied sciences(24.06.25, 24.08.22)|LDMNet:Enhancing the Segmentation Capabilities of Unmanned Surface Vehicles in Complex Waterway Scenarios |<img width="684" alt="image" src="Assets/95.jpg">|[Link](https://www.mdpi.com/2076-3417/14/17/7706)|[Code](https://github.com/thalitadru/LDMnet-pytorch)|
+|LGRS(24.07.22, 24.10.04)|A Mamba-Diffusion Framework for Multimodal Remote Sensing Image Semantic Segmentation |<img width="684" alt="image" src="Assets/22.jpg">|[Link](https://ieeexplore.ieee.org/abstract/document/10733944)|[Code](https://github.com/WenliangDu/MambaDiffusion)|
+|The Photogrammetric Record(24.08.08, 25.01.02)|An Integrated Segmentation Framework Utilizing Mamba Fusion for Optical and SAR Images |<img width="684" alt="image" src="Assets/47.jpg">|[Link](https://onlinelibrary.wiley.com/doi/full/10.1111/phor.12534?casa_token=0mAvUbXjTtUAAAAA%3ABsd-yzLz2jhb_CDwf4U7o0u9sIdIeGncU2f62jVJahHyyRLY_1nN5GC5LD9ScL7QBbO_vP0-a_DvvyY)||
+|Geocarto International(24.08.26, 24.12.05)|EGCM-UNet:Edge Guided Hybrid CNN-Mamba UNet for farmland remote sensing image semantic segmentation |<img width="684" alt="image" src="Assets/69.jpg">|[Link](https://www.tandfonline.com/doi/full/10.1080/10106049.2024.2440407)||
+|ISPRS(24.08.27, 25.01.16)|Accurate semantic segmentation of very high-resolution remote sensing images considering feature state sequences:From benchmark datasets to urban applications |<img width="684" alt="image" src="Assets/109.jpg">|[Link](https://www.sciencedirect.com/science/article/pii/S0924271625000176?casa_token=_D9wfM1mmwgAAAAA:sP0GEasA_QXApuP03QAEG4YEnYrOkaAH0vHRYfvy5BAk-YnLF36gTijTjXlPDFCvsMKN05mbO0M)|[Code](https://github.com/KotlinWang/UrbanSSF)|
+|arXiv(24.09.10, -)|PPMamba:A Pyramid Pooling Local Auxiliary SSM-Based Model for Remote Sensing Image Semantic Segmentation  |<img width="684" alt="image" src="Assets/56.jpg">|[Link](https://arxiv.org/abs/2409.06309)|[Code](https://github.com/Jerrymo59/PPMambaSeg)|
+|sensor(24.10.04, 24.11.12)|MFMamba:A Mamba-Based Multi-Modal Fusion Network for Semantic Segmentation of Remote Sensing Images |<img width="684" alt="image" src="Assets/23.jpg">|[Link](https://www.mdpi.com/1424-8220/24/22/7266)|[Code](https://github.com/YanWang-WHPU/MFMamba)|
+|drones(24.10.04, 24.11.03)|Mamba-UAV-SegNet:A Multi-Scale Adaptive Feature Fusion Network for Real-Time Semantic Segmentation of UAV Aerial Imagery |<img width="684" alt="image" src="Assets/87.jpg">|[Link](https://www.mdpi.com/2504-446X/8/11/671)||
+|arXiv(24.10.08, -)|Remote Sensing Image Segmentation Using Vision Mamba and Multi-Scale Multi-Frequency Feature Fusion |<img width="684" alt="image" src="Assets/26.jpg">|[Link](https://arxiv.org/abs/2410.05624)||
+|Heliyon(24.10.15, -)|Samba:Semantic segmentation of remotely sensed images with state space model |<img width="684" alt="image" src="Assets/13.png">|[Link](https://www.cell.com/heliyon/fulltext/S2405-8440(24)14526-4)|[Code](https://github.com/zhuqinfeng1999/Samba)|
+|TGRS(24.10.15, 24.11.23)|PPMamba:Enhancing Semantic Segmentation in Remote Sensing Imagery by SS2D |<img width="684" alt="image" src="Assets/40.jpg">|[Link](https://ieeexplore.ieee.org/abstract/document/10769411)|[Code](https://github.com/Jerrymo59/PPMambaSeg)|
+|TGRS(24.10.18, 24.12.19)|LGMamba:Large-Scale ALS Point Cloud Semantic Segmentation With Local and Global State-Space Model |<img width="684" alt="image" src="Assets/98.jpg">|[Link](https://ieeexplore.ieee.org/abstract/document/10812773)|
+|applied sciences(24.12.04, 25.01.22)|Multimodal Natural Disaster Scene Recognition with Integrated Large Model and Mamba |<img width="684" alt="image" src="Assets/105.jpg">|[Link](https://www.mdpi.com/2076-3417/15/3/1149)|[Code](https://github.com/22Shao/Mamba-MDRNet)|
+|arXiv(25.02.01)|SatMamba: Development of Foundation Models for Remote Sensing Imagery Using State Space Models |<img width="684" alt="image" src="Assets/108.jpg">|[Link](https://arxiv.org/abs/2502.00435)|[Code](https://github.com/mdchuc/HRSFM)|
+
 
 ### Interactive Segmentation
+| Venue(received, accepted)| Paper | Figure    | Link | Code         |
+| :--------  | :---- | :-------- | :--- | :----------- |
+|CASSP(24.09.05, 25.03.07)|UV-Mamba:A DCN-Enhanced State Space Model for Urban Village Boundary Identification in High-Resolution Remote Sensing Images |<img width="684" alt="image" src="Assets/21.jpg">|[Link](https://ieeexplore.ieee.org/abstract/document/10888896)|[Code](https://github.com/Devin-Egber/UV-Mamba)|
 
 ### Boundary Segmentation
-
+| Venue(received, accepted)| Paper | Figure    | Link | Code         |
+| :--------  | :---- | :-------- | :--- | :----------- |
+|JSTARS(24.09.04, 24.10.31)|An Interactive Prompt Based Network for Urban Floods Area Segmentation Using UAV Images |<img width="684" alt="image" src="Assets/86.jpg">|[Link](https://ieeexplore.ieee.org/abstract/document/10753337)||
 
 
 
@@ -83,13 +112,37 @@ We document these papers according to different downstream tasks. All dates are 
 ## Detection
 
 ### Object Detection
+| Venue(received, accepted)| Paper | Figure    | Link | Code         |
+| :--------  | :---- | :-------- | :--- | :----------- |
+|SIVP(24.06.07, 24.08.17)|YOLO-Mamba:object detection method for infrared aerial images |<img width="684" alt="image" src="Assets/85.jpg">|[Link](https://link.springer.com/article/10.1007/s11760-024-03507-4)||
+|sensors(24.06.20, 24.07.29)|Accurate UAV Small Object Detection Based on HRFPN and EfficentVMamba |<img width="684" alt="image" src="Assets/94.jpg">|[Link](https://www.mdpi.com/1424-8220/24/15/4966)||
+|TGRS(24.07.03, 24.08.25)|Mask-Guided Mamba Fusion for Drone-Based Visible–Infrared Vehicle Detection |<img width="684" alt="image" src="Assets/97.jpg">|[Link](https://ieeexplore.ieee.org/abstract/document/10659747)||
+|arXiv(24.07.11, -)|DMM:Disparity-guided Multispectral Mamba for Oriented Object Detection in Remote Sensing |<img width="684" alt="image" src="Assets/12.png">|[Link](https://arxiv.org/abs/2407.08132)|[Code](https://github.com/Another-0/DMM)|
+|arXiv(24.10.17, -)|RemoteDet-Mamba:A Hybrid Mamba-CNN Network for Multi-modal Object Detection in Remote Sensing Images |<img width="684" alt="image" src="Assets/32.jpg">|[Link](https://arxiv.org/abs/2410.13532)||
+|RS(24.10.29, 24.11.26)|Hyperspectral Object Detection Based on Spatial–Spectral Fusion and Visual Mamba |<img width="684" alt="image" src="Assets/37.jpg">|[Link](https://www.mdpi.com/2072-4292/16/23/4482)||
+|CCSB(-, 24.11.04)|YOLOv10 and Mamba-based Super-Resolution for Smart Rose Growth Monitoring Using UAV Imagery |<img width="684" alt="image" src="Assets/100.jpg">|[Link](https://ieeexplore.ieee.org/abstract/document/10735472)||
+|arXiv(24.11.12,-)|MaDiNet:Mamba Diffusion Network for SAR Target Detection |<img width="684" alt="image" src="Assets/96.jpg">|[Link](https://arxiv.org/abs/2411.07500)|[Code](https://github.com/JoyeZLearning/MaDiNet)|
+|SSRN(24.12.16, -)|Mamba Enhanced You Only Look Once Network With  Multiscale Spatial Attention For Remote Sensing Object w Detection|<img width="684" alt="image" src="Assets/75.jpg">|[Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5059656)|[Code](https://github.com/woshio/ME-MSA-YOLO)|
+|arXiv(24.12.24, -)|COMO:Cross-Mamba Interaction and Offset-Guided Fusion for Multimodal Object Detection |<img width="684" alt="image" src="Assets/84.jpg">|[Link](https://arxiv.org/abs/2412.18076)|[Code](https://github.com/luluyuu/COMO)|
+
 
 ### Target Detection
+| Venue(received, accepted)| Paper | Figure    | Link | Code         |
+| :--------  | :---- | :-------- | :--- | :----------- |
+|TGRS(24.06.23, 24.10.11)|MiM-ISTD:Mamba-in-Mamba for Efficient Infrared Small-Target Detection |<img width="684" alt="image" src="Assets/99.jpg">|[Link](https://ieeexplore.ieee.org/abstract/document/10740056)|[Code](https://github.com/txchen-USTC/MiM-ISTD)|
+|TGRS(24.09.18, 25.02.26)|HTD-Mamba:Efficient Hyperspectral Target Detection with Pyramid State Space Model |<img width="684" alt="image" src="Assets/73.jpg">|[Link](https://ieeexplore.ieee.org/abstract/document/10908894)|[Code](https://github.com/shendb2022/HTD-Mamba)|
+|RS(24.11.21, 25.01.26)|HMCNet:A Hybrid Mamba–CNN UNet for Infrared Small Target Detection |<img width="684" alt="image" src="Assets/104.jpg">|[Link](https://www.mdpi.com/2072-4292/17/3/452)||
+
 
 ### Object Tracking
+| Venue(received, accepted)| Paper | Figure    | Link | Code         |
+| :--------  | :---- | :-------- | :--- | :----------- |
+|JSTARS(24.08.06, 24.09.07)|TrackingMamba:Visual State Space Model for Object Tracking|<img width="684" alt="image" src="Assets/113.jpg">|[Link](https://ieeexplore.ieee.org/abstract/document/10678881)|[Code](https://github.com/KustTeamWQW/TrackingMamba)|
 
 ### Object Counting
-
+| Venue(received, accepted)| Paper | Figure    | Link | Code         |
+| :--------  | :---- | :-------- | :--- | :----------- |
+|arXiv(25.01.12, -)|Mamba-MOC:A Multicategory Remote Object Counting via State Space Model|<img width="684" alt="image" src="Assets/62.jpg">|[Link](https://arxiv.org/abs/2501.06697)|[Code](https://github.com/lp-094/Mamba-MOC)|
 
 
 ## Change Detection
