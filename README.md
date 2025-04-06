@@ -10,7 +10,6 @@
 ## Contents
 - [Mamba](#mamba)
 - [Related Survey](#related-survey)
-- [Vision Mamba Backbone](#vision-mamba-backbone)
 - [Vision Mamba in Remote Sensing](#vision-mamba-in-remote-sensing)
   - [Classification](#classification)
   - [Segmentation](#segmentation)
@@ -39,15 +38,25 @@
   - [Spectral Translation](#spectral-translation)
 
 ## Mamba
-
+| Date      | Paper | Figure    | Link | Code         |
+| :-------- | :---- | :-------- | :--- | :----------- |
+| Arxiv 23.12.01 (COLM 2024) | Mamba: Linear-Time Sequence Modeling with Selective State Spaces | ![image](https://github.com/BaoBao0926/Awesome-Mamba-in-Remote-Sensing/blob/main/Assets/mambav1.jpg) ![image](https://github.com/BaoBao0926/Awesome-Mamba-in-Remote-Sensing/blob/main/Assets/mambav12.jpg) |[Link](https://arxiv.org/pdf/2312.00752)|[Code](https://github.com/state-spaces/mamba)|
+| Arxiv 24.05.31 (ICML 2024) | Transformers are SSMs: Generalized Models and Efficient Algorithms Through Structured State Space Duality | ![image](https://github.com/BaoBao0926/Awesome-Mamba-in-Remote-Sensing/blob/main/Assets/mambav2.jpg) ![image](https://github.com/BaoBao0926/Awesome-Mamba-in-Remote-Sensing/blob/main/Assets/mambav22.jpg) |[Link](https://arxiv.org/pdf/2405.21060)|[Code](https://github.com/state-spaces/mamba)|
 
 ## Related Survey
+| Date      | Paper | Link |
+| :-------- | :---- | :-------- |
+|arXiv(24.04.24)|Mamba-360: Survey of State Space Models as Transformer Alternative for Long Sequence Modelling: Methods, Applications, and Challenges | [Link](https://arxiv.org/pdf/2404.16112) |
+|arXiv(24.04.29)|Visual Mamba: A Survey and New Outlooks| [Link](https://arxiv.org/abs/2404.18861) |
+|arXiv(24.05.07)|Vision Mamba: A Comprehensive Survey and Taxonomy| [Link](https://arxiv.org/abs/2405.04404) |
+|arXiv(24.06.05| Computation-Efficient Era: A Comprehensive Survey of State Space Models in Medical Image Analysis | [Link](https://arxiv.org/abs/2406.03430) |
+|arXiv(24.08.02)|A Survey of Mamba| [Link](https://arxiv.org/abs/2408.01129) |
+|arXiv(24.10.03)|A Comprehensive Survey of Mamba Architectures for Medical Image Analysis: Classification, Segmentation, Restoration and Beyond| [Link](https://arxiv.org/abs/2410.02362) |
+|arXiv(24.10.04)|Mamba in Vision: A Comprehensive Survey of Techniques and Applications| [Link](https://arxiv.org/abs/2410.03105) |
+|arXiv(25.02.11)|A Survey on Mamba Architecture for Vision Applications| [Link](https://arxiv.org/abs/2502.07161) |
 
-## Vision Mamba Backbone
 
 # Vision Mamba in Remote Sensing
-We document these papers according to different downstream tasks. All dates are the received date.
-
 
 ## Classification
 | Venue(received, accepted)| Paper | Figure    | Link | Code         |
