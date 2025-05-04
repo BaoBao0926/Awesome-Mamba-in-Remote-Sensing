@@ -2,6 +2,7 @@
 
 
 ### News:
+- 2025.05.04: The paper had been uploaded into [ArXiv](https://arxiv.org/abs/2505.00630)
 - 2025.04.07: The content had been added
 - 2025.04.05: The repository was created
 
