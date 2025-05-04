@@ -280,10 +280,11 @@
 |arXiv(24.08.15, -)|ColorMamba:Towards High-quality NIR-to-RGB Spectral Translation with Mamba |<img width="684" alt="image" src="Assets/81.jpg">|[Link](https://arxiv.org/abs/2408.08087)|[Code](https://github.com/AlexYangxx/ColorMamba)|
 
 
-
-
-
-
+## Foundation Model in Remote Sensing
+| Venue(received, accepted)| Paper | Figure    | Link | Code         |
+| :--------  | :---- | :-------- | :--- | :----------- |
+|arXiv(2025.02.01, -)|SatMamba: Development of Foundation Models for Remote Sensing Imagery Using State Space Models|<img width="684" alt="image" src="Assets/108.jpg">|[Link](https://arxiv.org/abs/2502.00435)|[Code](https://github.com/mdchuc/HRSFM) |
+|arXiv(25.03.20,-)|DynamicVis: An Efficient and General Visual Foundation Model for Remote Sensing Image Understanding|<img width="684" alt="image" src="https://github.com/KyanChen/DynamicVis/blob/release/resources/DynamicVis.png">|[Linke](https://arxiv.org/abs/2503.16426)|[Code](https://github.com/KyanChen/DynamicVis)|
 
 
 
