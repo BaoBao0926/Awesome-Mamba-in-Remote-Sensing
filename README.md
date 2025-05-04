@@ -284,8 +284,8 @@
 | Venue(received, accepted)| Paper | Figure    | Link | Code         |
 | :--------  | :---- | :-------- | :--- | :----------- |
 |arXiv(2025.02.01, -)|SatMamba: Development of Foundation Models for Remote Sensing Imagery Using State Space Models|<img width="684" alt="image" src="Assets/108.jpg">|[Link](https://arxiv.org/abs/2502.00435)|[Code](https://github.com/mdchuc/HRSFM) |
+|arXiv(25.03.13,-)|RoMA: Scaling up Mamba-based Foundation Models for Remote Sensing|<img width="684" alt="image" src="https://github.com/MiliLab/RoMA/blob/main/assets/image-20250311170540530.png">|[Link](https://arxiv.org/abs/2503.10392)|[Code](https://github.com/MiliLab/RoMA)|
 |arXiv(25.03.20,-)|DynamicVis: An Efficient and General Visual Foundation Model for Remote Sensing Image Understanding|<img width="684" alt="image" src="https://github.com/KyanChen/DynamicVis/blob/release/resources/DynamicVis.png">|[Linke](https://arxiv.org/abs/2503.16426)|[Code](https://github.com/KyanChen/DynamicVis)|
-
 
 
 
